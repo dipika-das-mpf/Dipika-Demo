@@ -31,7 +31,7 @@
 
 	<test name="Demo Module">
 		<classes>
-			<class name="com.mplatform.test.manalytics.Manage_Agencies">
+			<class name="com.mplatform.test.minsights.FirstDemoTest">
 				<!--<methods>-->
 					<!--<include name="setUp"/>-->
 				<!--</methods>-->

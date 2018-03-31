@@ -26,7 +26,7 @@
                 <version>2.19.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>SmokeTest.xml</suiteXmlFile>
+                        <suiteXmlFile>FirstDemoTest.xml</suiteXmlFile>
                         <!--<suiteXmlFile>ReportBuilder.xml</suiteXmlFile>-->
                         <!--<suiteXmlFile>Regression.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
@@ -126,7 +126,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>3.4.0</version>
+            <version>3.7.0</version>
         </dependency>
 
 

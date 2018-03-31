@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 8.326 sec <<< FAILURE! - in TestSuite
+createNewAdvertiser(com.mplatform.test.minsights.FirstDemoTest)  Time elapsed: 0.116 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.mplatform.test.minsights.FirstDemoTest.createNewAdvertiser(FirstDemoTest.java:20)
+
+TearDownSuite(com.mplatform.test.minsights.FirstDemoTest)  Time elapsed: 0.719 sec  <<< FAILURE!
+java.lang.NullPointerException
+

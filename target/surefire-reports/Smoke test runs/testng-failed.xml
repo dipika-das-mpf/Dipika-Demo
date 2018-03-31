@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Smoke test runs]">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="OS" value="OS X 10.11"/>
+  <parameter name="TriggerEmail" value="N"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="remoteDriver" value="true"/>
+  <parameter name="remoteurl" value=""/>
+  <parameter name="EmailList" value="MySelf"/>
+  <parameter name="bversion" value="65.0"/>
+  <test name="Demo Module">
+    <classes>
+      <class name="com.mplatform.test.minsights.FirstDemoTest"/>
+    </classes>
+  </test> <!-- Demo Module -->
+  <test name="Demo Module(failed)">
+    <classes>
+      <class name="com.mplatform.test.minsights.FirstDemoTest">
+        <methods>
+          <include name="TearDownSuite"/>
+          <include name="LaunchBrowser"/>
+          <include name="createNewAdvertiser"/>
+        </methods>
+      </class> <!-- com.mplatform.test.minsights.FirstDemoTest -->
+    </classes>
+  </test> <!-- Demo Module(failed) -->
+</suite> <!-- Failed suite [Smoke test runs] -->
