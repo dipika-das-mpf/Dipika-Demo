@@ -1,0 +1,32 @@
+VariableName | QA1 | INT | STG | DEV
+AdvertiserName | AutoAdv | AutoAdv
+ActivityName    | AutoAct | AutoAct
+Agency	| MEC | MEC | MEC | MEC
+customvarname1 | Visitor_Age | Visitor_Age | Visitor_Age | Visitor_Age
+customvarTagname1 | age | age | age | age
+customvarname2 | Visitor_Gender | Visitor_Gender | Visitor_Gender | Visitor_Gender
+customvarTagname2 | gender | gender | gender | gender
+activity_cb_value | {"src.age": "Visitor_Age","src.gender": "Visitor_Gender"}|{"src.age": "Visitor_Age","src.gender": "Visitor_Gender"}|{"src.age": "Visitor_Age","src.gender": "Visitor_Gender"}|{"src.age": "Visitor_Age","src.gender": "Visitor_Gender"}
+account_id | 901|901|901|901
+tagr_zeus_client_parameter|{"name": "zeus.migClientId","value": "123133"}|{"name": "zeus.migClientId","value": "123133"}|{"name": "zeus.migClientId","value": "123133"}|{"name": "zeus.migClientId","value": "123133"}
+tagr_zeus_action_parameter|{"name": "zeus.migAction","value": "123133"}|{"name": "zeus.migAction","value": "123133"}}|{"name": "zeus.migAction","value": "123133"}|{"name": "zeus.migAction","value": "123133"}
+EditAgency	| Light Reaction | Light Reaction | Light Reaction | Light Reaction
+Editcustomvarname2 | Visitor_Income | Visitor_Income | Visitor_Income | Visitor_Income
+EditcustomvarTagname2 | income | income | income | income
+Editactivity_cb_value | {"src.gender": "Visitor_Gender","src.income": "Visitor_Income"}|{"src.gender": "Visitor_Gender","src.income": "Visitor_Income"}|{"src.gender": "Visitor_Gender","src.income": "Visitor_Income"}|{"src.gender": "Visitor_Gender","src.income": "Visitor_Income"}
+AdditionalMarket1 | zNA Test2 | zNA Test2 | zNA Test2 | zNA Test2
+DefaultAccount | zNA Test1 | zNA Test1 | zNA Test1 | zNA Test1
+CampaignName    | AutoCamp | AutoCamp
+Agency	| MEC | MEC | MEC | MEC
+ExternalPlatform	| DFA | DFA | DFA | DFA
+ExternalParameterId	| test44 | test44 | test44 | test44
+CampaignParameter	| Placement | Placement | Placement | Placement
+ExternalSecondPlatform	| AdForm | AdForm | AdForm | AdForm
+ExternalSecondParameterId	| test04 | test04 | test04 | test04
+CampaignSecondParameter	| Line Item | Line Item | Line Item | Line Item
+DataPartnerName | AutoDP | AutoDP
+LiveDataSourceName | AutoLDS | AutoLDS
+LookLikeName | AutoNum | AutoNum
+DataPartnerName | AutoNum | AutoNum
+CustomMoreData | 12304 | 12304 | 12304 | 12304
+CustomMoreDataExclude | 12324 | 12324 | 12324 | 12324

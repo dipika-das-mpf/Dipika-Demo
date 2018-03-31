@@ -1,0 +1,18 @@
+{
+  
+  "SUPERUSER":{
+    "username" : "mohamed.abdulkadar@synechron.com",
+    "password":"Welcome@123"
+  },
+  "ACCOUNTUSER":{
+    "username" : "mohamed.abdulkadar@synechron.com",
+    "password":"Welcome@123"
+  },
+  "AGENCYUSER":{
+    "username" : "mohamed.abdulkadar@synechron.com",
+    "password":"Welcome@123"
+  }
+  
+  
+  
+}

@@ -1,0 +1,36 @@
+<html>
+<title> mPlatform QA AUTOMATION MODULEWISE RESULT 03-30-2018 08-56 PM</title>
+<head>
+<script>
+function displayHideElement(strButton,strID)
+{
+strDispText = (document.getElementById(strButton).innerText).trim();
+if(strDispText == "+")
+{
+document.getElementById(strID).style.display="block";
+document.getElementById(strButton).innerText=" - ";
+}
+else
+{
+document.getElementById(strID).style.display="none";
+document.getElementById(strButton).innerText=" + ";
+}
+}
+</script>
+</head>
+<body bgcolor = "lightgrey">
+<h2 align = "left" style = "FONT-SIZE:13;COLOR:BLACK">Hi All,</h2>
+<h2 align = "left" style = "FONT-SIZE:13;COLOR:BLACK">Please find QA Automation Test Results In mPlatform. Should you have any questions, please contact QA team.</h2>
+<h4 align = "CENTER" style = "FONT-SIZE:20;COLOR:DARKBLUE"> mPlatform QA AUTOMATION SUITE EXECUTION MODULEWISE RESULT</h4>
+<center><table border = "1" width = "75%" cellspacing="0" cellpadding="12" STYLE = "BORDER-COLOR:BLACK">
+<tr bgcolor = "#787878">
+<th style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:14;COLOR:WHITE;WORD-BREAK:BREAK-ALL" width = "5%" > </th>
+<th style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:14;COLOR:WHITE;WORD-BREAK:BREAK-ALL" width = "30%" >MODULE NAME</th>
+<th style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:14;COLOR:WHITE;WORD-BREAK:BREAK-ALL" width = "35%" >MODULE DESCRIPTION</th>
+<th style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:14;COLOR:WHITE;WORD-BREAK:BREAK-ALL" width = "12%" >STATUS</th>
+<th style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:14;COLOR:WHITE;WORD-BREAK:BREAK-ALL" width = "18%" >TIME TAKEN</th>
+</tr>
+<tr align = "CENTER">
+<td id="ExpandModule1" bgcolor = "#A0A0A0" style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:25;COLOR:BLACK;WORD-BREAK:BREAK-ALL" onClick="displayHideElement('ExpandModule1','Module1')"> + </td>
+<td bgcolor = "Tan" style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:12;COLOR:BLACK;WORD-BREAK:BREAK-ALL" ><a href="StepRunResult 03-30-2018 08-56 PM.html#Module1" target="_blank">Scenario_01</a><br>STARTED AT: 03/30/2018 08:56 PM</td>
+<td bgcolor = "PeachPuff" style = "BORDER-COLOR:BLACK;FONT-FAMILY:VERDANA;FONT-SIZE:12;COLOR:BLACK;WORD-BREAK:BREAK-ALL" >UserStroy## MIPUI-3247 =</td>

@@ -1,0 +1,18 @@
+{
+  "SUPERUSER":{
+    "username" : "dipika.das@xaxis.com",
+    "password":"welcome"
+  },
+  "ACCOUNTUSER":{
+    "username" : "mohamed.abdulkadar@synechron.com",
+    "password":"Welcome@123"
+  },
+  "AGENCYUSER":{
+    "username" : "mohamed.abdulkadar@synechron.com",
+    "password":"Welcome@123"
+  },
+  "OKTAUSER1":{
+     "username" :"vaibhav.shinde@xaxis.net",
+     "password" :"VSaug@2017"
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Suite" allow-return-values="true" verbose="1" parallel="tests" thread-count="2">
+
+		<parameter name="browser" value="chrome" />
+		<parameter name="remoteurl" value="" />
+		<parameter name="bversion" value="48.0" />
+		<parameter name="remoteDriver" value="true" />
+		<parameter name="OS" value="OS X 10.11" />
+		<parameter name="useCloudEnv" value="false" />
+		
+		
+	<test name="Parallel Demo" parallel="classes" thread-count="2">
+		<classes>
+			<class name="com.mplatform.test.minsights.DemoTest" />
+		</classes>
+	</test>
+	
+		<parameter name="TriggerEmail" value="N" />
+		<parameter name="EmailList" value="MySelf" />
+</suite>
