@@ -247,10 +247,10 @@ public class ScriptBase
 					{
 						firefoxprofile = new FirefoxProfile();
 						firefoxprofile.setPreference("security.insecure_password.ui.enabled",false);
-					/*capabilities=DesiredCapabilities.firefox();
+					capabilities=DesiredCapabilities.firefox();
 					capabilities.setCapability("marionette", true);
 					capabilities.setCapability("acceptInsecureCerts", true);
-*/					localDriver = new FirefoxDriver(firefoxprofile);
+					localDriver = new FirefoxDriver(firefoxprofile);
 						localDriver.manage().window().maximize();
 						break;
 					}
