@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Smoke test runs">
-	<parameter name="browser" value="firefox" />
+	<parameter name="browser" value="chrome" />
 	<parameter name="remoteurl" value="" />
 	<parameter name="bversion" value="65.0" />
 	<parameter name="remoteDriver" value="true" />

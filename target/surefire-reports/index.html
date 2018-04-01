@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Smoke_test_runs">
-              <span class="suite-name border-failed">Smoke test runs</span>
+              <span class="suite-name border-skipped">Smoke test runs</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,21 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">1 method,  1 skipped,  </span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Smoke_test_runs" class="hide-methods failed suite-Smoke_test_runs"> (hide)</a> <!-- hide-methods failed suite-Smoke_test_runs -->
-                      <a href="#" panel-name="suite-Smoke_test_runs" class="show-methods failed suite-Smoke_test_runs"> (show)</a> <!-- show-methods failed suite-Smoke_test_runs -->
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Smoke_test_runs" class="hide-methods skipped suite-Smoke_test_runs"> (hide)</a> <!-- hide-methods skipped suite-Smoke_test_runs -->
+                      <a href="#" panel-name="suite-Smoke_test_runs" class="show-methods skipped suite-Smoke_test_runs"> (show)</a> <!-- show-methods skipped suite-Smoke_test_runs -->
                     </span>
-                    <div class="method-list-content failed suite-Smoke_test_runs">
+                    <div class="method-list-content skipped suite-Smoke_test_runs">
                       <span>
-                        <img width="3%" src="failed.png"/>
+                        <img width="3%" src="skipped.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Smoke_test_runs" title="com.mplatform.test.minsights.FirstDemoTest" hash-for-method="createNewAdvertiser">createNewAdvertiser</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-Smoke_test_runs -->
+                    </div> <!-- method-list-content skipped suite-Smoke_test_runs -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -117,9 +117,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Smoke_test_runs" class="panel Smoke_test_runs">
-          <div class="suite-Smoke_test_runs-class-failed">
+          <div class="suite-Smoke_test_runs-class-skipped">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
+              <img src="skipped.png"/>
               <span class="class-name">com.mplatform.test.minsights.FirstDemoTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -128,21 +128,10 @@
                   <a name="createNewAdvertiser">
                   </a> <!-- createNewAdvertiser -->
                   <span class="method-name">createNewAdvertiser</span>
-                  <div class="stack-trace">java.lang.NullPointerException
-	at java.io.Reader.&lt;init&gt;(Reader.java:78)
-	at java.io.BufferedReader.&lt;init&gt;(BufferedReader.java:101)
-	at java.io.BufferedReader.&lt;init&gt;(BufferedReader.java:116)
-	at com.mplatform.framework.base.Helper.readFile(Helper.java:22)
-	at com.mplatform.framework.base.Helper.buildMinsightsCredetentails(Helper.java:74)
-	at com.mplatform.framework.data.minsights.MI_DataVO.&lt;init&gt;(MI_DataVO.java:32)
-	at com.mplatform.framework.controller.MI_ApplicationController.NewLogin(MI_ApplicationController.java:24)
-	at com.mplatform.test.minsights.FirstDemoTest.createNewAdvertiser(FirstDemoTest.java:20)
-... Removed 27 stack frames
-</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Smoke_test_runs-class-failed -->
+          </div> <!-- suite-Smoke_test_runs-class-skipped -->
         </div> <!-- panel Smoke_test_runs -->
         <div panel-name="test-xml-Smoke_test_runs" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -156,7 +145,7 @@
   &lt;parameter name=&quot;useCloudEnv&quot; value=&quot;false&quot;/&gt;
   &lt;parameter name=&quot;OS&quot; value=&quot;OS X 10.11&quot;/&gt;
   &lt;parameter name=&quot;TriggerEmail&quot; value=&quot;N&quot;/&gt;
-  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
   &lt;parameter name=&quot;remoteDriver&quot; value=&quot;true&quot;/&gt;
   &lt;parameter name=&quot;remoteurl&quot; value=&quot;&quot;/&gt;
   &lt;parameter name=&quot;EmailList&quot; value=&quot;MySelf&quot;/&gt;
@@ -207,12 +196,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'createNewAdvertiser')
 data.setCell(0, 2, 'com.mplatform.test.minsights.FirstDemoTest')
-data.setCell(0, 3, 58);
+data.setCell(0, 3, 1);
 window.suiteTableData['Smoke_test_runs']= { tableData: data, tableDiv: 'times-div-Smoke_test_runs'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 58 ms</span>
+              <span class="suite-total-time">Total running time: 1 ms</span>
               <div id="times-div-Smoke_test_runs">
               </div> <!-- times-div-Smoke_test_runs -->
             </div> <!-- times-div -->
@@ -240,21 +229,15 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">com.mplatform.test.minsights.FirstDemoTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
-                <span class="method-name">LaunchBrowser(chrome, , 65.0, OS X 10.11, false)</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">LaunchBrowser(firefox, , 65.0, OS X 10.11, false)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">createNewAdvertiser</span>
-                <span class="method-start">3438 ms</span>
+                <span class="method-start">91 ms</span>
               </div> <!-- test-method -->
-              <div class="configuration-suite after">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">TearDownSuite(N, MySelf)</span>
-                <span class="method-start">3853 ms</span>
-              </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

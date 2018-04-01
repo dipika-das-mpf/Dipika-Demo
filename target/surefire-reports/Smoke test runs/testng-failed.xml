@@ -4,7 +4,7 @@
   <parameter name="useCloudEnv" value="false"/>
   <parameter name="OS" value="OS X 10.11"/>
   <parameter name="TriggerEmail" value="N"/>
-  <parameter name="browser" value="chrome"/>
+  <parameter name="browser" value="firefox"/>
   <parameter name="remoteDriver" value="true"/>
   <parameter name="remoteurl" value=""/>
   <parameter name="EmailList" value="MySelf"/>
@@ -18,7 +18,6 @@
     <classes>
       <class name="com.mplatform.test.minsights.FirstDemoTest">
         <methods>
-          <include name="TearDownSuite"/>
           <include name="LaunchBrowser"/>
           <include name="createNewAdvertiser"/>
         </methods>
