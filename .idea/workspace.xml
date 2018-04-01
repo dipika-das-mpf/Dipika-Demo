@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8309e045-401e-40e2-bab8-770c265e49b2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_22.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_24.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_26.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_28.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_26.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_28.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_28.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_7_v20170914.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_7_v20170914.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_3_v20170317.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_7_v20170914.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_3_v20170317.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_7_v20170914.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_3_v20170317.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_7_v20170914.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_26.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_28.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_7_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_7_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_7_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_7_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_7_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mplatform/framework/base/ScriptBase.class" afterPath="$PROJECT_DIR$/target/classes/com/mplatform/framework/base/ScriptBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Config/functional.log" afterPath="$PROJECT_DIR$/Config/functional.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Config/performance.log" afterPath="$PROJECT_DIR$/Config/performance.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SmokeTest.xml" afterPath="$PROJECT_DIR$/SmokeTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mplatform-qa-automation.iml" afterPath="$PROJECT_DIR$/mplatform-qa-automation.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mplatform/framework/base/ScriptBase.java" afterPath="$PROJECT_DIR$/src/main/java/com/mplatform/framework/base/ScriptBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstDemoTest.xml" afterPath="$PROJECT_DIR$/FirstDemoTest.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,93 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FirstDemoTest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FirstDemoTest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FirstDemoTest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PluginRegistry.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9-sources.jar!/org/apache/maven/plugin/registry/PluginRegistry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parallelExecution.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parallelExecution.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mplatform-qa-automation.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mplatform-qa-automation.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="184" column="8" lean-forward="false" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="295" column="31" lean-forward="false" selection-start-line="295" selection-start-column="31" selection-end-line="295" selection-end-column="31" />
-              <folding>
-                <marker date="1522475519000" expanded="true" signature="40481:40523" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40481:40541" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40481:40554" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40481:40569" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40604:42280" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40617:42265" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40668:40933" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40687:40918" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40720:40898" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40760:40864" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40781:40842" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40976:41280" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="40995:41265" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41067:41245" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41107:41211" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41128:41189" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41315:41621" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41334:41606" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41408:41586" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41448:41552" ph="..." />
-                <marker date="1522475519000" expanded="true" signature="41469:41530" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmokeTest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmokeTest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Manage_Agencies.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/mplatform/test/manalytics/Manage_Agencies.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -154,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+            <state relative-caret-position="318">
+              <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,8 +75,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mplatform/framework/base/ScriptBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/mplatform/test/manalytics/Manage_Agencies.java" />
         <option value="$PROJECT_DIR$/SmokeTest.xml" />
-        <option value="$PROJECT_DIR$/FirstDemoTest.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/FirstDemoTest.xml" />
       </list>
     </option>
   </component>
@@ -501,6 +396,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="786" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -510,9 +406,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42402315" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42402315" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3962804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -548,14 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parallelExecution.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/mplatform/test/manalytics/Manage_Agencies.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -564,40 +452,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mplatform-qa-automation.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="184" column="8" lean-forward="false" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="295" column="31" lean-forward="false" selection-start-line="295" selection-start-column="31" selection-end-line="295" selection-end-column="31" />
+        <state relative-caret-position="720">
+          <caret line="288" column="31" lean-forward="false" selection-start-line="288" selection-start-column="31" selection-end-line="288" selection-end-column="31" />
           <folding>
-            <marker date="1522475519000" expanded="true" signature="40481:40523" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40481:40541" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40481:40554" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40481:40569" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40604:42280" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40617:42265" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40668:40933" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40687:40918" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40720:40898" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40760:40864" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40781:40842" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40976:41280" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="40995:41265" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41067:41245" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41107:41211" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41128:41189" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41315:41621" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41334:41606" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41408:41586" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41448:41552" ph="..." />
-            <marker date="1522475519000" expanded="true" signature="41469:41530" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32580:32622" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32580:32640" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32580:32653" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32580:32668" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32703:34379" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32716:34364" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32767:33032" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32786:33017" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32819:32997" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32859:32963" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="32880:32941" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33075:33379" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33094:33364" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33166:33344" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33206:33310" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33227:33288" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33414:33720" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33433:33705" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33507:33685" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33547:33651" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33568:33629" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33772:34037" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33791:34022" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33824:34002" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33864:33968" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="33885:33946" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="34085:34350" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="34104:34335" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="34137:34315" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="34177:34281" ph="..." />
+            <marker date="1522546530000" expanded="true" signature="34198:34259" ph="..." />
           </folding>
         </state>
       </provider>
@@ -618,26 +508,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstDemoTest.xml">
+    <entry file="file://$PROJECT_DIR$/mplatform-qa-automation.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="280">
+          <caret line="184" column="8" lean-forward="false" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parallelExecution.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9-sources.jar!/org/apache/maven/plugin/registry/PluginRegistry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="330">
+          <caret line="41" column="19" lean-forward="false" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        <state relative-caret-position="318">
+          <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstDemoTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
           <folding />
         </state>
       </provider>
