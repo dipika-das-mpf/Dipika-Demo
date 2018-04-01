@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Smoke test runs" duration-ms="126" started-at="2018-03-31T05:57:23Z" finished-at="2018-03-31T05:57:23Z">
+  <suite name="Smoke test runs" duration-ms="76" started-at="2018-04-01T02:08:57Z" finished-at="2018-04-01T02:08:58Z">
     <groups>
     </groups>
-    <test name="Demo Module" duration-ms="126" started-at="2018-03-31T05:57:23Z" finished-at="2018-03-31T05:57:23Z">
+    <test name="Demo Module" duration-ms="76" started-at="2018-04-01T02:08:57Z" finished-at="2018-04-01T02:08:58Z">
       <class name="com.mplatform.test.minsights.FirstDemoTest">
-        <test-method status="PASS" signature="LaunchBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:com.mplatform.test.minsights.FirstDemoTest@e45f292]" name="LaunchBrowser" is-config="true" duration-ms="7145" started-at="2018-03-31T01:57:16Z" finished-at="2018-03-31T01:57:23Z">
+        <test-method status="PASS" signature="LaunchBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:com.mplatform.test.minsights.FirstDemoTest@1e397ed7]" name="LaunchBrowser" is-config="true" duration-ms="3432" started-at="2018-03-31T22:08:54Z" finished-at="2018-03-31T22:08:57Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
             <param index="1">
@@ -38,7 +38,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method status="FAIL" signature="createNewAdvertiser()[pri:1, instance:com.mplatform.test.minsights.FirstDemoTest@e45f292]" name="createNewAdvertiser" duration-ms="95" started-at="2018-03-31T01:57:23Z" finished-at="2018-03-31T01:57:23Z">
+        <test-method status="FAIL" signature="createNewAdvertiser()[pri:1, instance:com.mplatform.test.minsights.FirstDemoTest@1e397ed7]" name="createNewAdvertiser" duration-ms="58" started-at="2018-03-31T22:08:57Z" finished-at="2018-03-31T22:08:58Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -83,7 +83,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createNewAdvertiser -->
-        <test-method status="FAIL" signature="TearDownSuite(java.lang.String, java.lang.String)[pri:0, instance:com.mplatform.test.minsights.FirstDemoTest@e45f292]" name="TearDownSuite" is-config="true" duration-ms="0" started-at="2018-03-31T01:57:23Z" finished-at="2018-03-31T01:57:23Z">
+        <test-method status="FAIL" signature="TearDownSuite(java.lang.String, java.lang.String)[pri:0, instance:com.mplatform.test.minsights.FirstDemoTest@1e397ed7]" name="TearDownSuite" is-config="true" duration-ms="0" started-at="2018-03-31T22:08:58Z" finished-at="2018-03-31T22:08:58Z">
           <params>
             <param index="0">
               <value>

@@ -4,7 +4,7 @@
   <parameter name="useCloudEnv" value="false"/>
   <parameter name="OS" value="OS X 10.11"/>
   <parameter name="TriggerEmail" value="N"/>
-  <parameter name="browser" value="firefox"/>
+  <parameter name="browser" value="chrome"/>
   <parameter name="remoteDriver" value="true"/>
   <parameter name="remoteurl" value=""/>
   <parameter name="EmailList" value="MySelf"/>
