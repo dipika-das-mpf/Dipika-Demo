@@ -402,7 +402,7 @@ public class ScriptBase
 
 		if(browser.contentEquals("chrome"))
 		{
-			//	Runtime.getRuntime().exec(objProperties.getProperty("ChromeAutoITPath"));
+				Runtime.getRuntime().exec(objProperties.getProperty("ChromeDriverPath"));
 		}
 		else if (browser.contentEquals("firefox"))
 		{
