@@ -3,7 +3,7 @@
 
 <suite name="Smoke test runs">
 	<parameter name="browser" value="chrome" />
-	<parameter name="remoteurl" value="" />
+	<parameter name="remoteurl" value="http://10.90.101.183:8080/login.htm" />
 	<parameter name="bversion" value="65.0" />
 	<parameter name="remoteDriver" value="true" />
 	<parameter name="OS" value="OS X 10.11" />
