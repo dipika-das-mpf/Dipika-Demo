@@ -214,7 +214,7 @@ public class ScriptBase
 							+File.separator+"Lib"+File.separator+"win"+File.separator+"geckodriver.exe");
 					break;
 				case "mac":
-					System.setProperty("webdriver.chrome.driver", AppConstant.MacChromeDriverPath);
+					System.setProperty("webdriver.chrome.driver", AppConstant.ChromeDriverPath);
 					System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")
 							+File.separator+"Lib"+File.separator+"mac"+File.separator+"geckodriver");
 					break;
